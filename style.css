@@ -1,0 +1,28 @@
+.nav{display:flex;justify-content: space-between;background-color: whitesmoke;margin-left:-7px; margin-right: -7px; height: 40px;  padding-left: 100px;}
+.nav ul li{display: inline;padding-right: 180px;font-weight: 900;font-size: 16px;} 
+#back{width: 100%;}
+#dis{margin-left: 920px;padding: 10px 35px;background-color: rgb(236, 74, 101);border: hidden;font-weight: 600;}
+#cloth{margin-left: 900px;font-size: 30px;font-weight: 800;margin-top: -240px;}
+#body{font-family: Tahoma, Verdana, sans-serif;}
+#week{font-size: 25px;font-weight: 600;margin-left: 500px;margin-top: 220px;}
+#dress{font-size: 20px;font-weight: 600;text-decoration-line: underline;margin-left: 500px;}
+#tops{font-size: 20px;font-weight: 600;margin-left: 700px;margin-top: -43px;}
+.p1{margin-left: 20px;margin-bottom: -30px;}
+.p2{margin-left: 360px;margin-top: -440px;}
+.p3{margin-left: 660px;margin-top: -400px;}
+.p4{margin-left: 960px;margin-top: -400px;}
+#s{font-weight: 600;}
+#p5{margin-left: 60px;margin-top: 130px;}
+#p6{margin-bottom: 255px;}
+#p7{margin-left: 490px;margin-top: -290px;}
+#label{margin-left: 370px;font-size: 30px;font-weight: 600;margin-top: 20px;}
+#w{margin-left: 350px;margin-top: 30px;}
+.foot{ margin: 10px; display: flex;}
+.hop{margin-left: 6%;}
+.abt{margin-left: 6%;}
+.letter{ margin-left: 6%;}
+#sub{ margin-top: 30px; width: 60%; height: 40px; background-color: rgb(240, 66, 124); border-radius: 5px;border: hidden;}
+#email{ margin-top: 20px; width: 70%;height: 40px;border-radius: 5px;}
+.icons{ display: flex; gap: 15px; margin-top: 20px;}
+.payment{ display: flex; gap: 10px; margin-left: 17%; margin-top: 15px;}
+.shop{ margin-left: 6%;}
